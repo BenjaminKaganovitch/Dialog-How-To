@@ -3,7 +3,7 @@
 ## What is a Dialog?
 The 'dialog' element is used in the same way that a typical 'div' modal is used when you want content to emerge on a user's screen; similar to the Popup div.
 
-#### Modals vs Popup Divs
+## Modals vs Popup Divs
 A 'Dialog' is just a Popup div packaged into a browser's default styling. You must custom style your 'div' to display in front of all other content on your screen, move it to the desired area, add a backdrop, and build a method to close your modal when making a Popup. All of this is preconfigured in a 'dialogue,' and you can simply modify some of the default styling with CSS if you don't like it.
 
 ## How to use it
@@ -38,7 +38,7 @@ close.addEventListener('click', () => {
 Now Its up and running and looks great!
 
 ## Conclusion
-Finally, 'dialogue' is a helpful new element that makes it simple create popup modals with built-in appearance and functionality. 
+Finally, 'dialog' is a helpful new element that makes it simple create popup modals with built-in appearance and functionality. 
 
 Check out the examples located in this directory. 
 ## References
