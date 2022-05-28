@@ -14,7 +14,7 @@ In HTML, simply use 'dialog' in the same way you would a popup 'div', as follows
 
     <dialog id="modal">
         <h1>dialog are awesome!</h1>
-	    <h5>Ben is also awesome!</h5>
+	<h5>Ben is also awesome!</h5>
         <p>Lorem Ipsum Dolor</p>
         <button id='close'>Close Dialog</button>
     </dialog>
@@ -44,4 +44,4 @@ Check out the examples located in this directory.
 ## References
 - [How to Create HTML Modal Dialogs with the dialog Tag](https://usefulangle.com/post/110/html-dialog-element-to-create-modal-lightbox)
 - [You can finally make use of the HTML dialog element](https://towardsdev.com/you-can-finally-make-use-of-the-html-dialog-element-f4b7c591b1b6)
-[HTML 'dialog' Tag](https://www.w3docs.com/learn-html/html-dialog-tag.html)
+- [HTML 'dialog' Tag](https://www.w3docs.com/learn-html/html-dialog-tag.html)
